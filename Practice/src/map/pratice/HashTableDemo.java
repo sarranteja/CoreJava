@@ -5,7 +5,7 @@ import java.util.Hashtable;
 public class HashTableDemo {
 	
 	public static void main(String args[]){
-		
+		//insertion order is not preserved
 		Hashtable table = new Hashtable();
 		//Hash table is synchronized 
 		//duplicates keys are not allowed
