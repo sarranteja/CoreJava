@@ -1,1 +1,1 @@
-Sample Git file
+New branch Git file 
